@@ -1,3 +1,10 @@
+# PORT 3000 used (PORT 8080 causes problem for my MacBook Pro)
+
+# .env file was use to secure DATABASE_URL (not included)
+
+
+
+
 # Workshop: Backend Fundamentals - Gamestore
 
 ## Overview
